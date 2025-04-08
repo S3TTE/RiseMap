@@ -1,5 +1,3 @@
-// app/okrs.js
-
 import React, { useState } from 'react';
 import { View, StyleSheet, ScrollView } from 'react-native';
 import { Card } from 'primereact/card';

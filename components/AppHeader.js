@@ -1,5 +1,3 @@
-// components/AppHeader.js
-
 import React from 'react';
 import { View, StyleSheet, Text } from 'react-native';
 import { Button } from 'primereact/button';

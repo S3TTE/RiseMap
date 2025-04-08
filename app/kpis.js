@@ -1,5 +1,3 @@
-// app/kpis.js
-
 import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, ScrollView } from 'react-native';
 import { Card } from 'primereact/card';
